@@ -88,4 +88,22 @@ Bu proje, finansal piyasa verilerini analiz etmek ve gelecekteki fiyatları tahm
 - **Matplotlib**: Görselleştirme araçları.  
 - **TA-Lib**: Teknik analiz göstergeleri (RSI, MACD, Bollinger Bands) hesaplamak için kullanıldı.  
 - **TensorFlow/Keras**: LSTM modeli için derin öğrenme kütüphaneleri.  
-- **Flask**: Web uygulaması geliştirmek için kullanıldı.  
+- **Flask**: Web uygulaması geliştirmek için kullanıldı.
+
+- # Ödev Çalışması
+Bu projede, veritabanından veri çekme, görselleştirme ve SQL sorguları kullanılarak müzik ve gelir analizi yapılmıştır.  
+
+## Özellikler  
+1. **Ülkeye Göre Gelir Analizi**:  
+   - Ülkeler bazında toplam gelirler analiz edilmiştir.  
+   - Bar grafiklerle görselleştirme yapılmıştır.  
+2. **En Popüler Şarkılar**:  
+   - SQL sorguları ile en çok çalınan şarkılar listelenmiştir.  
+3. **Türlere Göre Ortalama Parça Süresi**:  
+   - Şarkı türleri bazında ortalama süre hesaplanmıştır.  
+
+## Kullanılan Teknolojiler  
+- **Python**: Analiz ve sorgular için ana dil.  
+- **SQLAlchemy**: ORM kullanarak veritabanı işlemleri.  
+- **Matplotlib**: Grafiklerin görselleştirilmesi.  
+- **SQLite**: Veritabanı yönetimi için.  
