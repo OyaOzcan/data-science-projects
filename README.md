@@ -90,7 +90,7 @@ Bu proje, finansal piyasa verilerini analiz etmek ve gelecekteki fiyatları tahm
 - **TensorFlow/Keras**: LSTM modeli için derin öğrenme kütüphaneleri.  
 - **Flask**: Web uygulaması geliştirmek için kullanıldı.
 
-- # Ödev Çalışması
+# Ödev Çalışması
 Bu projede, veritabanından veri çekme, görselleştirme ve SQL sorguları kullanılarak müzik ve gelir analizi yapılmıştır.  
 
 ## Özellikler  
